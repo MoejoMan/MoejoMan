@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Joseph Hayes Gonzalez 👋
 
-<!--
-**MoejoMan/MoejoMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a **Cybersecurity student** with a passion for **building practical tools, labs, and projects**. I love hands-on learning — from penetration testing to Python automation, to hardware tinkering.  
 
-Here are some ideas to get you started:
+### Featured Projects
+- **[Cybersecurity Suite]([https://github.com/yourusername/Cybersecurity-Suite](https://github.com/MoejoMan/Cybersecurity-Suite))** – Automated bug bounty tool (SQLi & XSS scanning) built with PyQt5  
+- **[Smart CV Analyzer]([https://github.com/yourusername/Smart-CV-Analyzer](https://github.com/MoejoMan/CV_Analyser2.0))** – Java NLP tool to parse and rank resumes  
+- **PC Builds & Data Recovery Experiments** – Hands-on hardware projects and practical system work  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find Me Online
+Check out my portfolio website: [moejoe06.pythonanywhere.com](https://moejoe06.pythonanywhere.com)  
+
+
+### Let's Connect
+- LinkedIn: [Joseph Hayes Gonzalez](https://www.linkedin.com/in/joseph-hayes-gonzalez-cybersecurity)  
+
