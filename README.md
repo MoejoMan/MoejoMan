@@ -1,5 +1,10 @@
 # Hi, I'm Joseph Hayes Gonzalez 👋
 
+### 📊 My GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoejoMan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoejoMan&layout=compact&theme=radical)  
+![My Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MoejoMan&theme=react-dark)
+
 ### About Me
 I'm a **Cybersecurity student** with a passion for **building practical tools, labs, and projects**. I love hands-on learning — from penetration testing to Python automation, to hardware tinkering.  
 
@@ -14,5 +19,3 @@ Check out my portfolio website: [moejoe06.pythonanywhere.com](https://moejoe06.p
 
 ### Let's Connect
 - LinkedIn: [Joseph Hayes Gonzalez](https://www.linkedin.com/in/joseph-hayes-gonzalez-cybersecurity)  
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MoejoMan&show_icons=true&theme=radical)  
