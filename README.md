@@ -4,7 +4,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoejoMan&show_icons=true&theme=radical" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoejoMan&layout=compact&theme=radical" width="250" />
-  <img src="https://ghchart.rshah.org/MoejoMan" width="400" />
 </div>
 
 ---
