@@ -2,8 +2,8 @@
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoejoMan&show_icons=true&theme=react-dark" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoejoMan&layout=compact&theme=react-dark" width="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoejoMan&show_icons=true&theme=merko" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoejoMan&layout=compact&theme=merko" width="250" />
 </div>
 
 ---
