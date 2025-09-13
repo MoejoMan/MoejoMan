@@ -1,17 +1,21 @@
 # Hi, I'm Joseph Hayes Gonzalez 👋
 
+---
+
 ### 📊 My GitHub Stats
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoejoMan&show_icons=false&theme=dark&hide_border=true" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoejoMan&layout=compact&theme=dark&hide_border=true" width="300" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=MoejoMan&theme=dark&hide_border=true" width="600" />
 </div>
 
-
+<div align="center">
+  ![My GitHub Contributions](https://ghchart.rshah.org/MoejoMan)
+</div>
 
 ---
 
 ### About Me
-I'm a **Cybersecurity student** with a passion for **building practical tools, labs, and projects**. I love hands-on learning — from penetration testing to Python automation, to hardware tinkering.  
+I'm a **Cybersecurity student** with a passion for **building practical tools, labs, and projects**. I enjoy hands-on learning — from penetration testing to Python automation, to hardware tinkering.  
 
 ---
 
