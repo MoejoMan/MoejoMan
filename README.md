@@ -1,4 +1,4 @@
-# Hi, I'm Joseph Hayes Gonzalez 👋
+# Hi, I'm Joseph Hayes Gonzalez,
 
 ---
 
@@ -6,10 +6,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoejoMan&show_icons=false&theme=dark&hide_border=true" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoejoMan&layout=compact&theme=dark&hide_border=true" width="300" />
-</div>
-
-<div align="center">
-  ![My GitHub Contributions](https://ghchart.rshah.org/MoejoMan)
 </div>
 
 ---
