@@ -2,9 +2,10 @@
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoejoMan&show_icons=true&theme=dark&hide_border=true" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoejoMan&layout=compact&theme=dark&hide_border=true" width="300" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=MoejoMan&theme=dark&hide_border=true" width="600" />
 </div>
+
 
 
 ---
