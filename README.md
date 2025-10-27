@@ -29,4 +29,5 @@ Check out my portfolio website: [moejoe06.pythonanywhere.com](https://moejoe06.p
 ---
 
 ### Let's Connect 🔗
-- LinkedIn: [Joseph Hayes Gonzalez](https://www.linkedin.com/in/joseph-hayes-gonzalez-cybersecurity)  
+- LinkedIn: [Joseph Hayes Gonzalez](https://www.linkedin.com/in/joseph-hayes-gonzalez-cybersecurity)
+  
