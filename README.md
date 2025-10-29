@@ -1,4 +1,4 @@
-# Hi, My name is Joseph,
+# Hi, My name is Joseph Hayes Gonzalez,
 
 ---
 
