@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://githubcard.com/MoejoMan.svg?d=gqWjkrQa" width="450" />
-  <img src="https://githubcard.com/MoejoMan.svg?d=f0MloEBR" width="850" />
+  <img src="https://githubcard.com/MoejoMan.svg?d=f0MloEBR" width="1050" />
 
 </div>
 
