@@ -17,7 +17,7 @@ I'm a **Cybersecurity student** with a passion for **building practical tools, l
 ---
 
 ### Featured Projects ☕🐍
-- **[Cybersecurity Suite](https://github.com/MoejoMan/Cybersecurity-Suite)** – Automated bug bounty tool (SQLi & XSS scanning) built with PyQt5  
+- **[Cybersecurity Suite](https://github.com/MoejoMan/Cybersecurity-Suite)** – In the works
 - **[Smart CV Analyzer](https://github.com/MoejoMan/Smart-CV-Analyzer)** – Java NLP tool to parse and rank resumes  
 - **PC Builds & Data Recovery Experiments** – Hands-on hardware projects and practical system work  
 
