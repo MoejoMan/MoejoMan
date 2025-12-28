@@ -5,7 +5,7 @@
 ### My GitHub Stats 📊
 
 <div align="center">
-  <img src="https://githubcard.com/MoejoMan.svg?d=uq0Q6_ZA" width="450" />
+  <img src="https://githubcard.com/MoejoMan.svg?d=gqWjkrQa" width="450" />
 
 </div>
 
