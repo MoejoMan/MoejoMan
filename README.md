@@ -1,6 +1,5 @@
 # Hi, My name is Joseph Hayes Gonzalez,
 
----
 
 ### My GitHub Stats 📊
 
