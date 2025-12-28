@@ -5,7 +5,7 @@
 ### My GitHub Stats 📊
 
 <div align="center">
-  <img src="https://githubcard.com/MoejoMan.svg?d=eZhAf5Zf" width="450" />
+  <img src="https://githubcard.com/MoejoMan.svg?d=eZhAf5Zf](https://githubcard.com/MoejoMan.svg?d=uq0Q6_ZA" width="450" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoejoMan&layout=compact&theme=dark&hide_border=true" width="300" />
 </div>
 
