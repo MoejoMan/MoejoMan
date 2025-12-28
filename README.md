@@ -14,7 +14,7 @@
 
 ---
 
-### About Me 💻
+### About Me:
 I'm a **Cybersecurity student** with a passion for **building practical tools, labs, and projects**. I enjoy hands-on learning — from penetration testing to Python automation, to hardware tinkering.  
 
 ---
@@ -26,11 +26,11 @@ I'm a **Cybersecurity student** with a passion for **building practical tools, l
 
 ---
 
-### Find Me Online 🌐
+### Find Me here 
 Check out my portfolio website: [moejoe06.pythonanywhere.com](https://moejoe06.pythonanywhere.com)  
 
 ---
 
-### Let's Connect 🔗
+### Let's Connect 
 - LinkedIn: [Joseph Hayes Gonzalez](https://www.linkedin.com/in/joseph-hayes-gonzalez-cybersecurity)
   
