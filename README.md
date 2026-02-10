@@ -17,6 +17,7 @@
   ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
   ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+  ![WireGuard](https://img.shields.io/badge/WireGuard-0D1117?style=for-the-badge&logo=wireguard&logoColor=88171A)
   ![Cisco](https://img.shields.io/badge/Cisco-0D1117?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 
 </div>
@@ -25,7 +26,7 @@
 
 ### `> cat about_me.txt` 🗿
 
-Cybersecurity student building **real tools, not just coursework**. I learn by doing — writing scanners, analysing logs, scripting forensics workflows, and breaking things in my homelab so I know how to defend them. Currently getting my hands dirty with **Docker** and **cloud infrastructure** on Oracle Cloud.
+Cybersecurity student building **real tools, not just coursework**. I learn by doing — writing scanners, analysing logs, running a **SIEM**, hosting my own **WireGuard VPN**, scripting forensics workflows, and breaking things in my homelab so I know how to defend them. Currently getting my hands dirty with **Docker**, **cloud infrastructure**, and **security monitoring** across multiple servers.
 
 🎓 **ISC2 Certified in Cybersecurity** — foundational security concepts & practices  
 
@@ -98,9 +99,13 @@ Cybersecurity student building **real tools, not just coursework**. I learn by d
 │   └── Tunnelled via playit.gg to bypass uni accommodation NAT
 ├── Oracle Cloud VPS — Docker containers on Ubuntu  
 └── Raspberry Pi Pico — converted into a USB Rubber Ducky 🐍
+
+☁️ CLOUD INFRA @ HETZNER
+├── SIEM deployment — centralised security event monitoring & log analysis
+└── WireGuard VPN — self-hosted, always-on encrypted tunnel 🔒
 ```
 
-> Hands-on hardware tinkering, networking, and infrastructure — not just theory.
+> Hands-on hardware tinkering, networking, cloud security, and infrastructure — not just theory.
 
 ---
 
