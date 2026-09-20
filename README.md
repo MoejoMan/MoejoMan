@@ -3,7 +3,7 @@
 │                                                                  │
 │   $ whoami                                                       │
 │   > Joseph Hayes Gonzalez                                        │
-│   > Cybersecurity Student · Tool Builder · Homelab Enthusiast    │
+│   > Cybersecurity and Digital Forensics Student · Tool Builder   │
 │   > Cambridge, UK                                                │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
@@ -26,9 +26,11 @@
 
 ### `> cat about_me.txt` 🗿
 
-Cybersecurity student building **real tools, not just coursework**. I learn by doing — writing scanners, analysing logs, running a **SIEM**, hosting my own **WireGuard VPN**, scripting forensics workflows, and breaking things in my homelab so I know how to defend them. Currently getting my hands dirty with **Docker**, **cloud infrastructure**, and **security monitoring** across multiple servers.
+Cybersecurity and digital forensics student building **real tools, not just coursework**. I learn by doing: writing scanners, analysing logs, running a **Cowrie honeypot** that feeds an **ELK SIEM**, hosting my own **WireGuard VPN**, scripting forensics workflows, and breaking things in my homelab so I know how to defend them.
 
-🎓 **ISC2 Certified in Cybersecurity** — foundational security concepts & practices  
+🎓 **BSc Cybersecurity and Digital Forensics**, Anglia Ruskin University (graduating July 2027)  
+🛡️ **ISC2 Certified in Cybersecurity (CC)**  
+💼 **Former DevOps Engineer at Netservers (2026)**: rebuilt an Odoo backend in Python and built a live broadband ordering platform with FastAPI, Next.js, and Stripe  
 
 ---
 
@@ -42,21 +44,21 @@ Cybersecurity student building **real tools, not just coursework**. I learn by d
         <img src="https://img.shields.io/badge/VIEW_REPO-0D1117?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
-      Production-ready SSH brute-force analyser. Parses auth logs in real time, classifies threat severity, and auto-generates blocklists for <b>fail2ban</b> — zero external dependencies.
+      SSH brute force analyser. Tails auth logs live, classifies threat severity, and generates blocklists for <b>fail2ban</b>. 84 tests and zero external dependencies.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/github/stars/MoejoMan/SSHVigil-Cybersecurity-Suite?style=flat-square&color=yellow" />
     </td>
     <td width="50%">
-      <h3>🌐 Northstar Test Website</h3>
-      <a href="https://github.com/MoejoMan/Northstar-Test-Website">
+      <h3>🔒 Windows Auto Sentinel</h3>
+      <a href="https://github.com/MoejoMan/Windows-Auto-Sentinel">
         <img src="https://img.shields.io/badge/VIEW_REPO-0D1117?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
-      Clean, minimal Flask prototype showcasing a modern responsive layout for an AI-focused company. Built to demonstrate full-stack web development with a sleek production-quality UI.
+      Windows security scanner covering <b>17 categories</b> of persistence and misconfiguration. Scores risk from 0 to 100 and serves its own browser dashboard from pure PowerShell.
       <br/><br/>
-      <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/MoejoMan/Windows-Auto-Sentinel?style=flat-square&color=yellow" />
     </td>
   </tr>
   <tr>
@@ -66,7 +68,7 @@ Cybersecurity student building **real tools, not just coursework**. I learn by d
         <img src="https://img.shields.io/badge/VIEW_REPO-0D1117?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
-      Threaded Python port scanner with open/closed/filtered detection, banner grabbing, JSON export, and clean summary tables. Built for speed and practical recon.
+      Threaded Python port scanner with open, closed, and filtered detection, banner grabbing, and saved scan profiles. Backed by a 17 test suite.
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=wireshark&logoColor=white" />
@@ -77,7 +79,7 @@ Cybersecurity student building **real tools, not just coursework**. I learn by d
         <img src="https://img.shields.io/badge/VIEW_REPO-0D1117?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br/><br/>
-      Digital forensics toolkit for extracting artefacts from target machines, designed to integrate with <b>FTK Imager</b> via PowerShell. Purpose-built for DFIR workflows.
+      Live forensic collection toolkit built for a university digital forensics module. 55+ functions in order of volatility, following <b>ACPO</b> and <b>ISO 27037</b>, used with <b>FTK Imager</b> and WinPmem.
       <br/><br/>
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
       <img src="https://img.shields.io/badge/Forensics-DC143C?style=flat-square&logoColor=white" />
@@ -101,7 +103,7 @@ Cybersecurity student building **real tools, not just coursework**. I learn by d
 └── Raspberry Pi Pico — converted into a USB Rubber Ducky 🐍
 
 ☁️ CLOUD INFRA @ HETZNER
-├── SIEM deployment — centralised security event monitoring & log analysis
+├── Cowrie SSH honeypot feeding an ELK SIEM, with thousands of login attempts a day
 └── WireGuard VPN — self-hosted, always-on encrypted tunnel 🔒
 ```
 
@@ -121,8 +123,8 @@ Cybersecurity student building **real tools, not just coursework**. I learn by d
 
 ### `> cat goals.md` 🎯
 
-- 🔭 Currently learning: **Docker**, **Ubuntu server administration**, **cloud infrastructure**
-- 💼 Looking for: **Junior IT / Cybersecurity roles** — eager to get hands-on industry experience
+- 🔭 Currently: final year of my **BSc Cybersecurity and Digital Forensics** at ARU (graduating July 2027)
+- 💼 Looking for: a **part time role now** and a **graduate role from summer 2027** in security operations, digital forensics, or security engineering
 - 🏔️ Long-term: **Senior Cybersecurity Engineer**
 - ⚔️ Want to get into: **CTFs & competitive security challenges**
 
@@ -133,7 +135,7 @@ Cybersecurity student building **real tools, not just coursework**. I learn by d
 <div align="center">
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-moejoe06.pythonanywhere.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moejoe06.pythonanywhere.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Hayes_Gonzalez-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/joseph-hayes-gonzalez-905495283)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph_Hayes_Gonzalez-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/joseph-hayes-gonzalez-cybersecurity)
 
 </div>
   
