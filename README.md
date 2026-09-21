@@ -95,19 +95,19 @@ Cybersecurity and digital forensics student building **real tools, not just cour
 
 ```
 🔧 HOMELAB @ UNI DORM
-├── 2x Cisco 2960 switches — wired networking backbone
-├── Gaming PC — ethernet-connected through the Ciscos
-├── Dell OptiPlex (refurbed) — new CPU + RAM upgrade, runs a 24/7 Minecraft server
+├── 2x Cisco 2960 switches: wired networking backbone
+├── Gaming PC: ethernet-connected through the Ciscos
+├── Dell OptiPlex (refurbed): new CPU + RAM upgrade, runs a 24/7 Minecraft server
 │   └── Tunnelled via playit.gg to bypass uni accommodation NAT
-├── Oracle Cloud VPS — Docker containers on Ubuntu  
-└── Raspberry Pi Pico — converted into a USB Rubber Ducky 🐍
+├── Oracle Cloud VPS: Docker containers on Ubuntu  
+└── Raspberry Pi Pico: converted into a USB Rubber Ducky 🐍
 
 ☁️ CLOUD INFRA @ HETZNER
 ├── Cowrie SSH honeypot feeding an ELK SIEM, with thousands of login attempts a day
-└── WireGuard VPN — self-hosted, always-on encrypted tunnel 🔒
+└── WireGuard VPN: self-hosted, always-on encrypted tunnel 🔒
 ```
 
-> Hands-on hardware tinkering, networking, cloud security, and infrastructure — not just theory.
+> Hands-on hardware tinkering, networking, cloud security, and infrastructure. Not just theory.
 
 ---
 
